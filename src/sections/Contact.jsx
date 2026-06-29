@@ -57,7 +57,7 @@ const Contact = () => {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               
               {/* Card LinkedIn */}
-              <a href="#" className="flex items-center gap-4 p-4 rounded-xl bg-slate-200/50 dark:bg-[#1e2538] border border-slate-300 dark:border-white/5 hover:border-blue-500/50 transition-all duration-500 ease-out hover:-translate-y-1 hover:shadow-lg hover:shadow-blue-500/10 group">
+              <a href="https://www.linkedin.com/in/dava-alkhoeri-b72222371?utm_source=share_via&utm_content=profile&utm_medium=member_ios&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnURBAL716IoK97qiBTqBmDXsi1MVqNUWzAdYUSsfebWBWk62A0CmP8V3lT74_aem_cRzsg6_yevtgx34FR5upkg" className="flex items-center gap-4 p-4 rounded-xl bg-slate-200/50 dark:bg-[#1e2538] border border-slate-300 dark:border-white/5 hover:border-blue-500/50 transition-all duration-500 ease-out hover:-translate-y-1 hover:shadow-lg hover:shadow-blue-500/10 group">
                 <div className="p-3 bg-blue-500/10 text-blue-500 rounded-lg group-hover:bg-blue-500 group-hover:text-white transition-all duration-500 ease-out">
                   <FaLinkedin size={24} />
                 </div>
@@ -68,7 +68,7 @@ const Contact = () => {
               </a>
 
               {/* Card Instagram */}
-              <a href="#" className="flex items-center gap-4 p-4 rounded-xl bg-slate-200/50 dark:bg-[#1e2538] border border-slate-300 dark:border-white/5 hover:border-pink-500/50 transition-all duration-500 ease-out hover:-translate-y-1 hover:shadow-lg hover:shadow-pink-500/10 group">
+              <a href="https://www.instagram.com/davaallk/" className="flex items-center gap-4 p-4 rounded-xl bg-slate-200/50 dark:bg-[#1e2538] border border-slate-300 dark:border-white/5 hover:border-pink-500/50 transition-all duration-500 ease-out hover:-translate-y-1 hover:shadow-lg hover:shadow-pink-500/10 group">
                 <div className="p-3 bg-pink-500/10 text-pink-500 rounded-lg group-hover:bg-gradient-to-tr group-hover:from-yellow-500 group-hover:via-pink-500 group-hover:to-purple-500 group-hover:text-white transition-all duration-500 ease-out">
                   <FaInstagram size={24} />
                 </div>
@@ -79,7 +79,7 @@ const Contact = () => {
               </a>
 
               {/* Card Github */}
-              <a href="#" className="flex items-center gap-4 p-4 rounded-xl bg-slate-200/50 dark:bg-[#1e2538] border border-slate-300 dark:border-white/5 hover:border-slate-500/50 transition-all duration-500 ease-out hover:-translate-y-1 hover:shadow-lg hover:shadow-slate-500/10 group">
+              <a href="https://github.com/davaalkhoeri" className="flex items-center gap-4 p-4 rounded-xl bg-slate-200/50 dark:bg-[#1e2538] border border-slate-300 dark:border-white/5 hover:border-slate-500/50 transition-all duration-500 ease-out hover:-translate-y-1 hover:shadow-lg hover:shadow-slate-500/10 group">
                 <div className="p-3 bg-slate-500/10 text-slate-700 dark:text-slate-300 rounded-lg group-hover:bg-slate-700 dark:group-hover:bg-slate-300 group-hover:text-white dark:group-hover:text-slate-900 transition-all duration-500 ease-out">
                   <FaGithub size={24} />
                 </div>
@@ -88,18 +88,6 @@ const Contact = () => {
                   <p className="text-xs text-slate-500">@davaalkhoeri</p>
                 </div>
               </a>
-
-              {/* Card YouTube */}
-              <a href="#" className="flex items-center gap-4 p-4 rounded-xl bg-slate-200/50 dark:bg-[#1e2538] border border-slate-300 dark:border-white/5 hover:border-red-500/50 transition-all duration-500 ease-out hover:-translate-y-1 hover:shadow-lg hover:shadow-red-500/10 group">
-                <div className="p-3 bg-red-500/10 text-red-500 rounded-lg group-hover:bg-red-500 group-hover:text-white transition-all duration-500 ease-out">
-                  <FaYoutube size={24} />
-                </div>
-                <div>
-                  <h4 className="font-bold text-slate-800 dark:text-white text-sm">YouTube</h4>
-                  <p className="text-xs text-slate-500">Tutorial & Lab</p>
-                </div>
-              </a>
-
             </div>
           </GlassCard>
         </div>

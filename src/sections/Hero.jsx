@@ -146,13 +146,13 @@ const Hero = () => {
 
           {/* Icons Sosmed */}
           <motion.div variants={itemVariants} className="flex items-center gap-4 mt-6">
-            <a href="#" className="p-3 bg-slate-200/50 dark:bg-white/5 border border-slate-300 dark:border-white/10 rounded-xl text-slate-600 dark:text-slate-400 hover:text-purple-500 hover:border-purple-500/50 transition-all duration-300 hover:-translate-y-1">
+            <a href="https://github.com/davaalkhoeri" className="p-3 bg-slate-200/50 dark:bg-white/5 border border-slate-300 dark:border-white/10 rounded-xl text-slate-600 dark:text-slate-400 hover:text-purple-500 hover:border-purple-500/50 transition-all duration-300 hover:-translate-y-1">
               <FaGithub size={20} />
             </a>
-            <a href="#" className="p-3 bg-slate-200/50 dark:bg-white/5 border border-slate-300 dark:border-white/10 rounded-xl text-slate-600 dark:text-slate-400 hover:text-blue-500 hover:border-blue-500/50 transition-all duration-300 hover:-translate-y-1">
+            <a href="https://l.instagram.com/?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdava-alkhoeri-b72222371%3Futm_source%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dmember_ios%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnzCc3Qcoe37I5RtM_QfNVmYN2oJNz83Bt0o5kSma3MnwPQfvcXdjOg3garqg_aem_ybqJ0qMRRzt1-YKpJPcw-w&e=AUAe-SpZClmfNsqHOEMgDsENkHaFSW1OVoGIKx0A733JTqr7WDlU01GZQ_Ua28_Yn_klQASsAQBG_DMslixo_NtJpW8HkalDMZvHpfc69-C1qg5PaHsO--28q9QQCy87UOv-5EGchRZuUzmlAWBTe5s" className="p-3 bg-slate-200/50 dark:bg-white/5 border border-slate-300 dark:border-white/10 rounded-xl text-slate-600 dark:text-slate-400 hover:text-blue-500 hover:border-blue-500/50 transition-all duration-300 hover:-translate-y-1">
               <FaLinkedin size={20} />
             </a>
-            <a href="#" className="p-3 bg-slate-200/50 dark:bg-white/5 border border-slate-300 dark:border-white/10 rounded-xl text-slate-600 dark:text-slate-400 hover:text-pink-500 hover:border-pink-500/50 transition-all duration-300 hover:-translate-y-1">
+            <a href="https://www.instagram.com/davaallk/" className="p-3 bg-slate-200/50 dark:bg-white/5 border border-slate-300 dark:border-white/10 rounded-xl text-slate-600 dark:text-slate-400 hover:text-pink-500 hover:border-pink-500/50 transition-all duration-300 hover:-translate-y-1">
               <FaInstagram size={20} />
             </a>
           </motion.div>
